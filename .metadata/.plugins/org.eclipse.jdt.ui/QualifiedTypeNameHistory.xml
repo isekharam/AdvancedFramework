@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="org.apache.commons.io.FileUtils"/>
+    <fullyQualifiedTypeName name="com.beust.jcommander.Parameter"/>
+    <fullyQualifiedTypeName name="org.testng.annotations.Parameters"/>
+    <fullyQualifiedTypeName name="com.learnautomation.pages.LogibePage"/>
+    <fullyQualifiedTypeName name="com.learnautomation.utility.ExceleDataprovider"/>
+    <fullyQualifiedTypeName name="com.learnautomation.utility.ConfigDataprovider"/>
+    <fullyQualifiedTypeName name="com.learnautomation.utility.BrowserFactory"/>
+    <fullyQualifiedTypeName name="com.learnautomation.utility.Helper"/>
+</qualifiedTypeNameHistroy>
